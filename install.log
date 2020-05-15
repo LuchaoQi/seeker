@@ -1,0 +1,15 @@
+Hit:1 http://us.archive.ubuntu.com/ubuntu eoan InRelease
+Get:2 http://us.archive.ubuntu.com/ubuntu eoan-updates InRelease [97.5 kB]
+Get:3 http://us.archive.ubuntu.com/ubuntu eoan-backports InRelease [88.8 kB]
+Get:4 http://security.ubuntu.com/ubuntu eoan-security InRelease [97.5 kB]
+Get:5 https://typora.io/linux ./ InRelease [793 B]
+Get:6 http://us.archive.ubuntu.com/ubuntu eoan-updates/main i386 Packages [203 kB]
+Get:7 http://us.archive.ubuntu.com/ubuntu eoan-updates/main amd64 Packages [276 kB]
+Get:8 http://security.ubuntu.com/ubuntu eoan-security/main amd64 Packages [202 kB]
+Get:9 http://security.ubuntu.com/ubuntu eoan-security/main i386 Packages [130 kB]
+Get:10 http://security.ubuntu.com/ubuntu eoan-security/main Translation-en [71.5 kB]
+Get:11 http://security.ubuntu.com/ubuntu eoan-security/universe i386 Packages [158 kB]
+Get:12 http://security.ubuntu.com/ubuntu eoan-security/universe amd64 Packages [165 kB]
+Get:13 http://security.ubuntu.com/ubuntu eoan-security/universe Translation-en [58.3 kB]
+Fetched 1,549 kB in 2s (740 kB/s)
+Reading package lists...

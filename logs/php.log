@@ -1,0 +1,38 @@
+[Wed May 13 20:41:46 2020] 127.0.0.1:37274 [200]: /index.html
+[Wed May 13 20:42:25 2020] 127.0.0.1:37280 [200]: /nearyou
+[Wed May 13 20:42:25 2020] 127.0.0.1:37282 [200]: /css/main.css
+[Wed May 13 20:42:25 2020] 127.0.0.1:37284 [200]: /js/main.js
+[Wed May 13 20:42:26 2020] 127.0.0.1:37286 [200]: /js/location.js
+[Wed May 13 20:42:26 2020] 127.0.0.1:37288 [200]: /js/info.js
+[Wed May 13 20:42:26 2020] 127.0.0.1:37290 [200]: /js/warpspeed.min.js
+[Wed May 13 20:42:51 2020] 127.0.0.1:37292 [200]: /nearyou
+[Wed May 13 20:42:52 2020] 127.0.0.1:37294 [200]: /css/main.css
+[Wed May 13 20:42:52 2020] 127.0.0.1:37298 [200]: /js/warpspeed.min.js
+[Wed May 13 20:42:52 2020] 127.0.0.1:37296 [200]: /js/main.js
+[Wed May 13 20:42:52 2020] 127.0.0.1:37300 [200]: /js/location.js
+[Wed May 13 20:42:52 2020] 127.0.0.1:37302 [200]: /js/info.js
+[Wed May 13 20:42:53 2020] 127.0.0.1:37304 [200]: /php/info.php
+[Wed May 13 20:42:58 2020] PHP Notice:  Undefined index: Una in /home/luchao-qi/seeker/template/nearyou/php/error.php on line 5
+[Wed May 13 20:42:58 2020] PHP Notice:  Undefined index: Time in /home/luchao-qi/seeker/template/nearyou/php/error.php on line 6
+[Wed May 13 20:42:58 2020] PHP Notice:  Undefined index: Unk in /home/luchao-qi/seeker/template/nearyou/php/error.php on line 7
+[Wed May 13 20:42:58 2020] 127.0.0.1:37306 [200]: /php/error.php
+[Wed May 13 20:42:59 2020] 127.0.0.1:37310 [200]: /nearyou
+[Wed May 13 20:43:00 2020] 127.0.0.1:37312 [200]: /css/main.css
+[Wed May 13 20:43:00 2020] 127.0.0.1:37314 [200]: /js/info.js
+[Wed May 13 20:43:00 2020] 127.0.0.1:37316 [200]: /js/main.js
+[Wed May 13 20:43:00 2020] 127.0.0.1:37318 [200]: /js/location.js
+[Wed May 13 20:43:00 2020] 127.0.0.1:37320 [200]: /js/warpspeed.min.js
+[Wed May 13 20:43:00 2020] 127.0.0.1:37322 [200]: /php/info.php
+[Wed May 13 20:43:10 2020] 127.0.0.1:37324 [404]: /favicon.ico - No such file or directory
+[Wed May 13 20:43:10 2020] 127.0.0.1:37326 [200]: /
+[Wed May 13 20:44:18 2020] 127.0.0.1:37328 [200]: /nearyou
+[Wed May 13 20:44:19 2020] 127.0.0.1:37330 [200]: /css/main.css
+[Wed May 13 20:44:19 2020] 127.0.0.1:37332 [200]: /js/main.js
+[Wed May 13 20:44:19 2020] 127.0.0.1:37334 [200]: /js/location.js
+[Wed May 13 20:44:19 2020] 127.0.0.1:37336 [200]: /js/info.js
+[Wed May 13 20:44:19 2020] 127.0.0.1:37338 [200]: /js/warpspeed.min.js
+[Wed May 13 20:44:20 2020] 127.0.0.1:37340 [200]: /php/info.php
+PHP 7.3.11-0ubuntu0.19.10.4 Development Server started at Wed May 13 20:41:43 2020
+Listening on http://0.0.0.0:8080
+Document root is /home/luchao-qi/seeker/template/nearyou
+Press Ctrl-C to quit.
